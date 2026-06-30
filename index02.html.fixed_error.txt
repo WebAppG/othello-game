@@ -2,3 +2,5 @@
 gemini answered error with function
 
 fixed function makeMove()
+
+
